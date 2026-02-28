@@ -25,7 +25,7 @@ Esityksen maksimipituus 10mins.
 | x           | lassijar, KukkonenJussi                |
 | ta			| VilleR-GitHub, LeeviAsikainen, timbzi	|
 | K- Ryhmä			| Lukavarin, KurriRyka	|
-| JAE                 | Jarno M, Antti E, Eero V           |
+| JAE                 | jaked66, Eroantti, eeroverlord  |
 | PS1 Emu             | TheBoniestOne |
 
 ### Esityspäivät:
